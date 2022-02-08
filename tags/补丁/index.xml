@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>补丁 on F0rmat&#39;s Blog</title>
+    <link>localhost/tags/%E8%A1%A5%E4%B8%81/</link>
+    <description>Recent content in 补丁 on F0rmat&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; Copyright F0rmat</copyright>
+    <lastBuildDate>Thu, 29 Mar 2018 10:16:39 +0000</lastBuildDate><atom:link href="localhost/tags/%E8%A1%A5%E4%B8%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>漏洞预警|Windows 7 Meltdown 补丁发现漏洞，允许任意进程读写内核</title>
+      <link>localhost/posts/vulnerability-alert_windows-7-meltdown-patch-discovery-vulnerability-allows-any-process-to-read-and-write-kernels/</link>
+      <pubDate>Thu, 29 Mar 2018 10:16:39 +0000</pubDate>
+      
+      <guid>localhost/posts/vulnerability-alert_windows-7-meltdown-patch-discovery-vulnerability-allows-any-process-to-read-and-write-kernels/</guid>
+      <description>前言 今晚本来想养生睡个早觉的，睡前浏览了下twitter，看到大佬的高危漏洞，看着有点好笑，微软拿起自己的石头砸自己的脚操作哈哈，这个洞在27号就已经出来了。  今年1月份英特尔确认了在自家CPU中发现两个安全漏洞，而这些漏洞将会使得数十亿设备面临受到攻击的风险“Meltdown”和“Spectre”两个漏洞让不少人感觉恐慌，因为他们发现这些漏洞几乎影响到过去20年制造的每一种计算设备，无论是手机还是个人电脑。他们允许恶意程序窃取在受影响机器上处理的敏感数据。</description>
+    </item>
+    
+  </channel>
+</rss>

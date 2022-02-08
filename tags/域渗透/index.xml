@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>域渗透 on F0rmat&#39;s Blog</title>
+    <link>localhost/tags/%E5%9F%9F%E6%B8%97%E9%80%8F/</link>
+    <description>Recent content in 域渗透 on F0rmat&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; Copyright F0rmat</copyright>
+    <lastBuildDate>Wed, 16 Dec 2020 01:00:00 +0200</lastBuildDate><atom:link href="localhost/tags/%E5%9F%9F%E6%B8%97%E9%80%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows认证与域渗透</title>
+      <link>localhost/posts/domain-security/</link>
+      <pubDate>Wed, 16 Dec 2020 01:00:00 +0200</pubDate>
+      
+      <guid>localhost/posts/domain-security/</guid>
+      <description>0x00 Windows系统中的工作组、域、域控、活动目录 1、工作组 工作组是局域网中的一个概念，由许多在同一物理地点，而且被相同的局域网连接起来的用户组成的小组，也可以是遍布一个机构的，但却被同一网络连接的用户构成的逻辑小组。工作组是最常见最简单最普通的资源管理模式，就是将不同的电脑按功能分别列入不同的组中，加入工作组是为了区分用户计算机在网络中的类别，如果用户有工作组的话，在管理上会方便很多，可以共享/使用打印机和协和工作，很多小企业都是用这种方法来管理电脑，共享文件。</description>
+    </item>
+    
+  </channel>
+</rss>

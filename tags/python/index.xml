@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on F0rmat&#39;s Blog</title>
+    <link>localhost/tags/python/</link>
+    <description>Recent content in Python on F0rmat&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; Copyright F0rmat</copyright>
+    <lastBuildDate>Mon, 01 Oct 2018 08:49:25 +0000</lastBuildDate><atom:link href="localhost/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Web学习方法</title>
+      <link>localhost/posts/python-web-guide/</link>
+      <pubDate>Mon, 01 Oct 2018 08:49:25 +0000</pubDate>
+      
+      <guid>localhost/posts/python-web-guide/</guid>
+      <description>0x01 前言 学习Python Web的时候找到的一篇挺好的文章，里面写的也很实在，所有分享出来。</description>
+    </item>
+    
+    <item>
+      <title>osCommerce 2.3.4.1 - 远程代码执行漏洞（每日一洞）</title>
+      <link>localhost/posts/oscommerce-2.3.4.1-remote-code-execution-vulnerability/</link>
+      <pubDate>Mon, 02 Apr 2018 11:18:58 +0000</pubDate>
+      
+      <guid>localhost/posts/oscommerce-2.3.4.1-remote-code-execution-vulnerability/</guid>
+      <description>0x01 前言 好几天没有写了，前两天又去Boom了，差点没缓过来。今天在exploit-db逛看到一个洞，也是install的地方，想去利用上次那个远程数据库技巧来尝试下，发现这个洞根本用不到，不过新手可以学习下哈，也可以收藏下，因为有时候在ctf线下赛的时候官方会拿一些国外的程序给你玩，最近也在写python的漏洞利用工具，欢迎关注我的github。</description>
+    </item>
+    
+  </channel>
+</rss>

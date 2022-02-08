@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vulnhub on F0rmat&#39;s Blog</title>
+    <link>localhost/tags/vulnhub/</link>
+    <description>Recent content in Vulnhub on F0rmat&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; Copyright F0rmat</copyright>
+    <lastBuildDate>Thu, 03 May 2018 17:04:29 +0000</lastBuildDate><atom:link href="localhost/tags/vulnhub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用Vulnhub来练习漏洞靶场(爸爸再也不用担心我没有靶场练习了)</title>
+      <link>localhost/posts/use-vulnhub-to-build-a-variety-of-hole-shooting-range-father-no-longer-have-to-worry-about-i-have-no-practice-range/</link>
+      <pubDate>Thu, 03 May 2018 17:04:29 +0000</pubDate>
+      
+      <guid>localhost/posts/use-vulnhub-to-build-a-variety-of-hole-shooting-range-father-no-longer-have-to-worry-about-i-have-no-practice-range/</guid>
+      <description>0x01 前言 Vulnhub它是一个提供各种漏洞环境的平台，里面大部分的环境是要用VMware或者VirtualBox打开运行的。 如果只是练习一些常见的漏洞可以看我另一篇用[Docker来搭建各种漏洞靶场(妈妈再也不用担心我没有靶场练习了)](https://getpass.</description>
+    </item>
+    
+  </channel>
+</rss>

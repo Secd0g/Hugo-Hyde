@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackthebox on F0rmat&#39;s Blog</title>
+    <link>localhost/tags/hackthebox/</link>
+    <description>Recent content in hackthebox on F0rmat&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; Copyright F0rmat</copyright>
+    <lastBuildDate>Sat, 19 Dec 2020 01:00:00 +0200</lastBuildDate><atom:link href="localhost/tags/hackthebox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hackthebox-Pathfinder</title>
+      <link>localhost/posts/pathfinder/</link>
+      <pubDate>Sat, 19 Dec 2020 01:00:00 +0200</pubDate>
+      
+      <guid>localhost/posts/pathfinder/</guid>
+      <description>0x00 前言 前面的所有密码：</description>
+    </item>
+    
+    <item>
+      <title>Hackthebox-Shield</title>
+      <link>localhost/posts/shield/</link>
+      <pubDate>Mon, 07 Dec 2020 01:00:00 +0200</pubDate>
+      
+      <guid>localhost/posts/shield/</guid>
+      <description>0x01 前言 根据hackthebox的惯性，我在这里收集了前面的所有密码：</description>
+    </item>
+    
+    <item>
+      <title>Hackthebox-Archetype</title>
+      <link>localhost/posts/archetype/</link>
+      <pubDate>Sun, 06 Dec 2020 15:30:00 +0000</pubDate>
+      
+      <guid>localhost/posts/archetype/</guid>
+      <description>0x01 前言 挺久没接触技术，最近准备考OSCP，就先拿Hack The Box里面的题目先练练手。</description>
+    </item>
+    
+    <item>
+      <title>Hackthebox-Oopsie</title>
+      <link>localhost/posts/oopsie/</link>
+      <pubDate>Sun, 06 Dec 2020 12:53:00 +0000</pubDate>
+      
+      <guid>localhost/posts/oopsie/</guid>
+      <description>0x01 前言 做完Archetype继续来做Oopsie</description>
+    </item>
+    
+    <item>
+      <title>Hackthebox-Vaccine</title>
+      <link>localhost/posts/vaccine/</link>
+      <pubDate>Sat, 05 Dec 2020 00:44:00 +0000</pubDate>
+      
+      <guid>localhost/posts/vaccine/</guid>
+      <description>0x01前言 hackthebox练习</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bc on F0rmat&#39;s Blog</title>
+    <link>localhost/tags/bc/</link>
+    <description>Recent content in bc on F0rmat&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; Copyright F0rmat</copyright>
+    <lastBuildDate>Sat, 13 Jun 2020 00:24:46 +0000</lastBuildDate><atom:link href="localhost/tags/bc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bc站渗透日记</title>
+      <link>localhost/posts/bc-penetration-diary/</link>
+      <pubDate>Sat, 13 Jun 2020 00:24:46 +0000</pubDate>
+      
+      <guid>localhost/posts/bc-penetration-diary/</guid>
+      <description>0x01前言 不废话了，反正就是遇到这个网站了哈哈哈</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>渗透 on F0rmat&#39;s Blog</title>
+    <link>localhost/categories/%E6%B8%97%E9%80%8F/</link>
+    <description>Recent content in 渗透 on F0rmat&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; Copyright F0rmat</copyright>
+    <lastBuildDate>Sat, 13 Jun 2020 00:24:46 +0000</lastBuildDate><atom:link href="localhost/categories/%E6%B8%97%E9%80%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bc站渗透日记</title>
+      <link>localhost/posts/bc-penetration-diary/</link>
+      <pubDate>Sat, 13 Jun 2020 00:24:46 +0000</pubDate>
+      
+      <guid>localhost/posts/bc-penetration-diary/</guid>
+      <description>0x01前言 不废话了，反正就是遇到这个网站了哈哈哈</description>
+    </item>
+    
+    <item>
+      <title>一次艰难的渗透提权过程</title>
+      <link>localhost/posts/a-difficult-penetration-process/</link>
+      <pubDate>Mon, 09 Sep 2019 02:11:19 +0000</pubDate>
+      
+      <guid>localhost/posts/a-difficult-penetration-process/</guid>
+      <description>0x01 前言 某日朋友丢了一条shell叫我提权，我拿到shell看了一下，菜刀蚁剑都无法执行命令。 Getshell的漏洞分析在:https://getpass.</description>
+    </item>
+    
+    <item>
+      <title>H5神兽棋牌游戏渗透之旅</title>
+      <link>localhost/posts/h5-beast-game-penetration-journey/</link>
+      <pubDate>Fri, 11 May 2018 22:14:47 +0000</pubDate>
+      
+      <guid>localhost/posts/h5-beast-game-penetration-journey/</guid>
+      <description>0x01 前言 本来不想发的，涉及太多利益了,这些棋牌游戏的源码最高能卖到几万。开发起来不比一个商场程序难。 最近又太忙了，没时间去做代码审计的文章了，但一不小心又抢了个运气王。。。</description>
+    </item>
+    
+  </channel>
+</rss>

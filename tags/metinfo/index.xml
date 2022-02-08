@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MetInfo on F0rmat&#39;s Blog</title>
+    <link>localhost/tags/metinfo/</link>
+    <description>Recent content in MetInfo on F0rmat&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; Copyright F0rmat</copyright>
+    <lastBuildDate>Tue, 06 Mar 2018 22:41:35 +0000</lastBuildDate><atom:link href="localhost/tags/metinfo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MetInfo5.3.19安装过程过滤不严导致Getshell(每日一洞)</title>
+      <link>localhost/posts/metinfo5.3.19-installation-process-is-not-strict-lead-to-getshell/</link>
+      <pubDate>Tue, 06 Mar 2018 22:41:35 +0000</pubDate>
+      
+      <guid>localhost/posts/metinfo5.3.19-installation-process-is-not-strict-lead-to-getshell/</guid>
+      <description>前言 前几天在先知看到的漏洞，就很想写个分析过程了的，因为比赛培训和在审计一个CMS拖到了今天。</description>
+    </item>
+    
+  </channel>
+</rss>
